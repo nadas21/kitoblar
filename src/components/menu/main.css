@@ -1,0 +1,76 @@
+.menu {
+}
+.container {
+}
+.menu-inner {
+  text-align: center;
+  padding: 20px;
+}
+.menu-h2 {
+  color: #c9ac8c;
+  font-family: Rotterburg Stylish FREE;
+  font-size: 31px;
+  font-weight: 400;
+  line-height: 34.1px;
+}
+.menu-box {
+  display: flex;
+  padding-top: 20px;
+  margin-left: 495px;
+}
+.menu-h4 {
+  color: #ffffff99;
+  font-family: Steinbeck;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-left: 20px;
+}
+.menu-h4:hover {
+  color: #c9ac8c;
+  cursor: pointer;
+}
+
+.menu-item {
+  padding-top: 40px;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.menu-list {
+  margin: 40px 20px;
+    width: 173.33px;
+    height: 236.74px;
+    gap: 0px;
+    border-radius: 15px ;
+    opacity: 0px;
+    background: linear-gradient(209.09deg, #191919 -1.68%, #212121 135.36%);
+    cursor: pointer;
+}
+.list-img {
+  width: 173.98px;
+  height: 132.19px;
+  top: -0.43px;
+  left: -0.19px;
+  gap: 0px;
+  border-radius: 15px 15px 0px 0px;
+  opacity: 0px;
+}
+.list-h4 {
+  padding-top: 10px;
+  font-family: Steinbeck;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: center;
+  color: #c9ac8c;
+}
+.list-p {
+  /* padding-top: 5px; */
+  font-family: Steinbeck;
+  font-size: 12px;
+  /* line-height: 12px; */
+  text-align: center;
+  color: #ffffff;
+}

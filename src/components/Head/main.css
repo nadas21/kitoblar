@@ -1,0 +1,44 @@
+.header-item-link {
+  background-image: url(../../assets/img/aloma.png);
+  width: 1261.9px;
+  height: 346.97px;
+  gap: 0px;
+  border-radius: 21px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 23px;
+}
+.head-box {
+  width: 900px;
+  height: auto;
+  border-radius: 15px;
+  margin-left: 14%;
+  margin-top: -50px;
+  text-align: center;
+  background-color: #191919;
+}
+.header-h2 {
+  color: #c9ac8c;
+  font-family: Rotterburg Stylish FREE;
+  font-size: 31px;
+  font-weight: 400;
+  line-height: 34.1px;
+  padding-top: 20px;
+}
+.header-input{
+    margin: 20px;
+    padding: 13px;
+    border-radius: 15px;
+    width: 500px;
+    height: 40px;
+    background-color: #404040;   
+    color: aliceblue;
+}
+.list {
+    text-align: center;
+    align-items: center;
+}
+.header-btn {
+    background-color: #c9ac8c;
+    color: #191919; 
+    width: 110px;
+}
