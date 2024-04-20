@@ -8,7 +8,7 @@ import { About } from '../components/about'
 export const RouterWrapper = () => {
   return (
     <Routes>
-      <Route path='/btn' element= {<About/>}/>
+      <Route path='/btn/:id' element= {<About/>}/>
       <Route path='/' element= {<Menu/>}/>
       <Route path='/logo' element= {<Home/>}/>
       <Route path='/jadid' element= {<Menu/>} />

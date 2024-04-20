@@ -46,7 +46,7 @@ export const Menu = () => {
                       : element?.fullName.toLowerCase().includes(search)
                   )
                   .map((item) => (
-                    <NavLink to= {"/btn"}>
+                    <NavLink to= {`/btn/${item.id}`}>
                     <ul className="menu-list" >
                       <img className="list-img" src={item.img} alt="" />
                       <li className="list">
